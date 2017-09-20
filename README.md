@@ -1,7 +1,7 @@
 # dogDOM
 :deciduous_tree: A virtual DOM builder and renderer that OPEN SOURCE
 
-This repo besed on WTFPL
+This repo besed on WTFPL  
 Do What the Fuck You Want to Public License
 
 <a href="http://www.wtfpl.net/"><img
